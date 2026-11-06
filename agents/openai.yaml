@@ -1,0 +1,4 @@
+interface:
+  display_name: "音声から記事・配信"
+  short_description: "音声やZoom録画から記事・配信を本人と作成"
+  default_prompt: "stand.fm・Zoom録画・音声ファイルをもとに記事と配信を準備してください。初回は利用アカウントを確認してください。"
